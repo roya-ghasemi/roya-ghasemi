@@ -1,7 +1,8 @@
 ﻿<!-- Header with animated robot -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" alt="AI Robot Animation" />
   <img src="1.gif" width="200" alt="AI Robot" />
+  
+  
 </p>
 <h1 align="center">Hi 👋, I'm roya ghasemi far</h1>
 <h3 align="center">Python developer with over 10 years of experience in designing and implementing RESTful APIs using Flask and a robust microservices architecture. Specialized in process automation and system performance optimization with RabbitMQ.
@@ -10,7 +11,7 @@ As a Data Scientist, I deliver practical AI solutions in machine learning and na
 I’m passionate about turning complex challenges into smart, scalable solutions — and I’m always open to collaborating with teams and individuals who want to push the boundaries of technology and data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roya-ghasemi&label=Profile%20views&color=0e75b6&style=flat" alt="roya-ghasemi" /> </p>
-
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" alt="AI Robot Animation" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roya-ghasemi" alt="roya-ghasemi" /></a> </p>
 
 - 🔭 I’m currently working on [I’m currently working on an advanced hybrid deep‐learning framework that integrates CNN, LSTM, and multi‑head attention mechanisms to forecast currency exchange rates through rigorous financial time‑series analysis](I filled out the non-disclosure agreement)
